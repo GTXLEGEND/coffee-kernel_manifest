@@ -111,7 +111,7 @@ repo sync ./ -j4 --no-tags
 
 | Argument | Value | Meaning |
 |---|---|---|
-| Platform | `parrot` | Targets SM7435-AB / Snapdragon 6 Gen 1 SoC |
+| Platform | `parrot` | Targets SM6450-AB / Snapdragon 6 Gen 1 SoC |
 | Variant | `gki` | Builds Generic Kernel Image (GKI 2.0) |
 
 ### Build Variants
