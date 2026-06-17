@@ -1,4 +1,4 @@
-# Realme 12 Pro Plus 5G — Kernel Build Manifest
+# Realme 12 Pro 5G — Kernel Build Manifest
 
 ## Device Information
 
